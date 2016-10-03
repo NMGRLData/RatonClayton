@@ -1,0 +1,77 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "122.73 mg", 
+    "commit": "31dc994d9bf1f3e51de289b90586c7dac9419ccd", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -2213847939809516906, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "65357", 
+    "increment": 5, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-287", 
+    "irradiation_level": "C", 
+    "irradiation_position": 2, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "GroundmassConcentrate", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "RatonClayton", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "RatonClayton", 
+    "sample": "NMRC-11", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-10-03T12:14:57.148603", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "0fac6c14-68c4-4e00-98c5-6529f9853a93"
+}
