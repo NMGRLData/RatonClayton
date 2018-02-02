@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 60.0, 
+    "commit": "a9e51628d8a42e8c5cf0c0bc898e9182cb6f5892", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 0.8, 
+    "grain_polygon_blob": [], 
+    "measured_response": "cum0TgAAAACgvLo9AAD6RFQCBkAAAPpE3fqCQAAA+kQ9OcNAAAD6RHeYAUEAAPpEi6EhQQAA+kRVpUFBAAD6RMqhYUEAAPpEnc+AQQAA+kRTz5BBAAD6RErRoEEAAPpEec+wQQAA+kRh4sBBAAD6RCnn0EEAAPpEVOfgQQAA+kTz9vBBAAD6RCR7AEIAAPpEWXoIQgAA+kR3ehBCAAD6RG95GEIAAPpEfoEgQgAA+kR6gChCAAD6RAGAMEIAAPpERoI4QgAA+kRpgUBCAAD6RAaBSEIAAPpEHYBQQgAA+kQYf1hCAAD6RBCCYEIAAPpEFIRoQgAA+kRAhHBCAAD6RCiEeEIAAPpED0OAQgAA+kQlRYRCAAD6RKhEiEIAAPpEKkiMQgAA+kSfSJBCAAD6RCFKlEIAAPpEcEuYQgAA+kTCS5xCAAD6RGJNoEIAAPpEwE6kQgAA+kTJTqhCAAD6RAxQrEIAAPpEZVGwQgAA+kTwVLRCAAD6ROJUuEIAAPpE31W8QgAA+kQKV8BCAAD6RLRWxEIAAPpE/lbIQgAA+kSFVsxCAAD6RA==", 
+    "pattern": "diamond_37hole_3mmbeam.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "17", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "19", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "cum0TgAAAACgvLo90QMIQlQCBkAAAAAA3fqCQAAAAAA9OcNAaD+QQXeYAUFoP5BBi6EhQWg/kEFVpUFBaD+QQcqhYUFoP5BBnc+AQWg/kEFTz5BBaD+QQUrRoEFoP5BBec+wQWg/kEFh4sBBaD+QQSnn0EFoP5BBVOfgQWg/kEHz9vBBaD+QQSR7AEJoP5BBWXoIQmg/kEF3ehBCaD+QQW95GEJoP5BBfoEgQmg/kEF6gChCaD+QQQGAMEJoP5BBRoI4Qmg/kEFpgUBCaD+QQQaBSEJoP5BBHYBQQmg/kEEYf1hCaD+QQRCCYEJoP5BBFIRoQmg/kEFAhHBCaD+QQSiEeEJoP5BBD0OAQmg/kEElRYRCaD+QQahEiEJoP5BBKkiMQmg/kEGfSJBCaD+QQSFKlEJoP5BBcEuYQmg/kEHCS5xCaD+QQWJNoEJoP5BBwE6kQmg/kEHJTqhCaD+QQQxQrEJoP5BBZVGwQmg/kEHwVLRCaD+QQeJUuEJoP5BB31W8Qmg/kEEKV8BCaD+QQbRWxEJoP5BB/lbIQmg/kEGFVsxCaD+QQQ==", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "37-hole", 
+    "videos": [], 
+    "weight": 29.5
+}
