@@ -1,47 +1,59 @@
 {
     "AX": {
-        "error": 0.0037758876542451233, 
+        "error": 0.0037758876689576327, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.07491666352020437
+        "fit": "Average", 
+        "fn": 117, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.07491666367516303
     }, 
     "H1": {
-        "error": 0.009904097868227798, 
+        "error": 0.009904097786642817, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.025090565087253224
+        "fit": "Average", 
+        "fn": 114, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.025090564872044252
     }, 
     "H2": {
-        "error": 0.010418832678820666, 
+        "error": 0.010418832641734928, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.022521869160905164
+        "fit": "Average", 
+        "fn": 116, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.022521869117867778
     }, 
     "L1": {
-        "error": 0.010042305602582884, 
+        "error": 0.010042305599442757, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.20270380314461395
+        "fit": "Average", 
+        "fn": 115, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.20270380334037802
     }, 
     "L2(CDD)": {
         "error": 0.0, 
