@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 60.0, 
+    "commit": "a9e51628d8a42e8c5cf0c0bc898e9182cb6f5892", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 5.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "nem0TgAAAABg7L09AAD6RKEUBkAAAPpEwheDQAAA+kTUH8NAAAD6RB6oAUEAAPpEgcIhQQAA+kQJxEFBAAD6RGnkYUEAAPpEZfGAQQAA+kRUAJFBAAD6RH8IoUEAAPpE9wexQQAA+kQUFsFBAAD6RLQd0UEAAPpEMyXhQQAA+kSSLPFBAAD6RNWdAEIAAPpExKQIQgAA+kSwqhBCAAD6RHqsGEIAAPpEjLMgQgAA+kSStShCAAD6RDi3MEIAAPpERcI4QgAA+kREz0BCAAD6RIPUSEIAAPpEp9lQQgAA+kRJ3VhCAAD6RGLhYEIAAPpEZ+loQgAA+kQO9nBCAAD6RGP5eEIAAPpEIH2AQgAA+kTifIRCAAD6RH98iEIAAPpEqnyMQgAA+kRZgpBCAAD6RNqClEIAAPpEu4SYQgAA+kTDhpxCAAD6RC2HoEIAAPpE8ImkQgAA+kTpjKhCAAD6RMmPrEIAAPpEIpKwQgAA+kSYlbRCAAD6RAuZuEIAAPpEc5y8QgAA+kTfncBCAAD6RLKnxEIAAPpEd6vIQgAA+kSdr8xCAAD6RJqy0EIAAPpE", 
+    "pattern": "diamond_37hole_3mmbeam.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "17", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "19", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "nem0TgAAAABg7L09PCumQaEUBkAAAAAAwheDQAAAAADUH8NAAAAAAB6oAUG+GblBgcIhQb4ZuUEJxEFBvhm5QWnkYUG+GblBZfGAQb4ZuUFUAJFBvhm5QX8IoUG+GblB9wexQb4ZuUEUFsFBvhm5QbQd0UG+GblBMyXhQb4ZuUGSLPFBvhm5QdWdAEK+GblBxKQIQr4ZuUGwqhBCvhm5QXqsGEK+GblBjLMgQr4ZuUGStShCvhm5QTi3MEK+GblBRcI4Qr4ZuUFEz0BCvhm5QYPUSEK+GblBp9lQQr4ZuUFJ3VhCvhm5QWLhYEK+GblBZ+loQr4ZuUEO9nBCvhm5QWP5eEK+GblBIH2AQr4ZuUHifIRCvhm5QX98iEK+GblBqnyMQr4ZuUFZgpBCvhm5QdqClEK+GblBu4SYQr4ZuUHDhpxCvhm5QS2HoEK+GblB8ImkQr4ZuUHpjKhCvhm5QcmPrEK+GblBIpKwQr4ZuUGYlbRCvhm5QQuZuEK+GblBc5y8Qr4ZuUHfncBCvhm5QbKnxEK+GblBd6vIQr4ZuUGdr8xCvhm5QZqy0EK+GblB", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "37-hole", 
+    "videos": [], 
+    "weight": 29.5
+}

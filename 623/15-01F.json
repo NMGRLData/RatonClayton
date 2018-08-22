@@ -1,0 +1,82 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "99.19 mg", 
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "62315", 
+    "increment": 5, 
+    "irradiation": "NM-264", 
+    "irradiation_level": "B", 
+    "irradiation_position": 4, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "gm", 
+    "measurement": "", 
+    "project": "RatonClayton", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "RatonClayton", 
+    "sample": "NMRC-17a", 
+    "spec_sha": "2a9d44268976abf6a1dca648a02da2fb818fcbca", 
+    "timestamp": "2014-01-24T23:52:49", 
+    "username": "MZimmerer", 
+    "uuid": "33b8c43f-dd96-411a-8279-5c448c68d795"
+}
